@@ -556,12 +556,12 @@
 
           <div class="col-lg-4 col-md-6 footer-info">
             <h3>Uniwise</h3>
-            <p>A Uniwise é um projeto de arrecadação de agasalhos para doação, criado pelos alunos do 3°DS, na qual seu nome combina as palavras "união" e "wise",
+            <p>A Uniwise é um projeto de arrecadação de agasalhos para doação, criado pelos alunos do 3°DS, na qual seu nome combina as palavras "union", que significa "união" em inglês e "wise",
               que significa "sábio" em inglês.</p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Âncoras</h4>
+            <h4>Conteúdo</h4>
             <ul>
               <li class="active"><a href="#intro">Início</a></li>
               <li><a href="#about">Sobre o projeto</a></li>
