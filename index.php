@@ -437,10 +437,8 @@
                 <div class="member-info-content">
                   <h4>Guilherme Cesar</h4>
                   <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/guilherme-cesar-c-4ab86a1aa/"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://github.com/QuatroQuatros"><i class="fa-brands fa-github"></i></a>
                   </div>
                 </div>
               </div>
