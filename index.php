@@ -69,7 +69,7 @@
       </div>
 
       <div class="intro-info">
-        <h2>Ajudar o próximo <br>é um gesto de gratidão<br><span>faça uma doação!</span></h2>
+        <h2>Ajudar o próximo <br>é um gesto de gratidão.<br><span>Faça uma doação!</span></h2>
         <div>
           <a href="#about" class="btn-get-started scrollto">Ver projeto</a>
         </div>
@@ -96,12 +96,12 @@
             <p>
               Com a aproximação do inverno e com a nossa realidade onde várias pessoas acabam falecendo ou adoecendo
               devido ao rigoroso frio, nós, alunos do 3º DS(Desenvolvimento de Sistemas) da Etec de Guaianazes, decidimos
-              combater esse triste fato com a arrecadação de vestimentas e cobertores para doação, direcionadas
+              minimizar esse triste fato com a arrecadação de vestimentas e cobertores para doação, direcionadas
               principalmente a pessoas socialmente vulneráveis.
             </p>
 
             <div class="icon-box wow fadeInUp">
-              <h4 class="title"><a href="">Principais pontos para essa solidariedade</a></h4>
+              <h4 class="title"><a href="">Principais pontos para este projeto</a></h4>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
@@ -138,7 +138,7 @@
               aberta, pensamos em pontos específicos para que pudéssemos alcançar a maior quantidade de pessoas
               possíveis. Então, no geral, ficamos muito satisfeitos com o resultado de nossa iniciativa, além de que não
               há gratificação melhor do que saber que estamos diminuindo mortes causadas pela hipotermia e aliviando o sofrimento causado pelo frio, ajudando os
-              necessitados socialmente, que não tem a capacidade de se proteger sozinhos nesse frio tão rigoroso.
+              necessitados socialmente, que não têm a capacidade de se protegerem sozinhos nesse frio tão rigoroso.
             </p>
           </div>
         </div>
@@ -151,11 +151,10 @@
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
             <h4>Apelo</h4>
             <p>
-              Doe seu agasalho velho porém, em bom estado para que ele possa ser recolhido e doado para outra
+              Doe seu agasalho velho, porém, em bom estado para que ele possa ser recolhido e doado para outra
               pessoa.</p>
             <p>
-              Muitas pessoas não possuem uma vestimenta adequada para o frio. E com o inverno chegando, queremos ajudar
-              estas pessoas a se esquentaram durante esse período. Por isto, sua doação será de grande ajuda.
+              Muitas pessoas não possuem uma vestimenta adequada para o frio. E com o inverno chegando, queremos ajudá-las a se esquentarem durante esse período. Por isto, sua doação será de grande ajuda.
               Veja seu guarda roupa e caso puder, doe alguma peça em bom estado, assim estará ajudando outra pessoa a
               se aquecer.
             </p>
@@ -208,14 +207,14 @@
               <div class="icon"><i class="ion-ios-bookmarks-outline" style="color: #3fcdc7;"></i></div>
               <h4 class="title"><a href="">3 - Divulgação da nossa iniciativa</a></h4>
               <p class="description">Segunda-feira(23/05), quarta-feira(25/05) e quinta-feira(26/05) passamos em todas as
-                salas de aula da ETEC de guaianases explicando e divulgando nossa iniciativa, nos períodos da manhã, tarde e noite.</p>
+                salas de aula da ETEC de Guaianases explicando e divulgando nossa iniciativa, nos períodos da manhã, tarde e noite.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-calendar-outline" style="color:#41cf2e;"></i></div>
               <h4 class="title"><a href="">4 - Fim do nosso projeto</a></h4>
-              <p class="description">Enfim quinta-feira(02/06) retiraremos nossa caixa, separaremos as roupas por tamanho e gênero entregaremos ao professor Lenildo para que ele transporte os agasalhos para a instituição
+              <p class="description">Enfim, quinta-feira(02/06) retiraremos nossa caixa, separaremos as roupas por tamanho e entregaremos ao professor Lenildo para que ele transporte os agasalhos para a instituição
                 Lírio da paz.</p>
             </div>
           </div>
@@ -268,7 +267,7 @@
       <div class="container">
 
         <header class="section-header">
-          <h3 class="section-title">Fotos que retiramos durante o projeto</h3>
+          <h3 class="section-title">Fotos que tiramos durante o projeto</h3>
         </header>
 
         <div class="row">
@@ -298,19 +297,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 3</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-projeto" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
@@ -326,34 +313,8 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-entrega">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 2</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 2</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
+    
+         
           <div class="col-lg-4 col-md-6 portfolio-item filter-projeto" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <img src="img/portfolio/equipe (3).jpeg" class="img-fluid" alt="">
@@ -368,47 +329,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-entrega">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 1</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-entrega" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 3</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 1</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1"
-                    title="Preview"><i class="ion ion-eye"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
         </div>
 
