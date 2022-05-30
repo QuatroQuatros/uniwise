@@ -69,7 +69,7 @@
       </div>
 
       <div class="intro-info">
-        <h2>Ajudar o proximo <br>é um gesto de gratidão<br><span>faça uma doação!</span></h2>
+        <h2>Ajudar o próximo <br>é um gesto de gratidão<br><span>faça uma doação!</span></h2>
         <div>
           <a href="#about" class="btn-get-started scrollto">Ver projeto</a>
         </div>
@@ -95,7 +95,7 @@
           <div class="col-lg-6 content order-lg-1 order-2">
             <p>
               Com a aproximação do inverno e com a nossa realidade onde várias pessoas acabam falecendo ou adoecendo
-              devido ao rigoroso frio, nós alunos do 3º DS(Desenvolvimento de Sistemas) da Etec de Guaianazes, decidimos
+              devido ao rigoroso frio, nós, alunos do 3º DS(Desenvolvimento de Sistemas) da Etec de Guaianazes, decidimos
               combater esse triste fato com a arrecadação de vestimentas e cobertores para doação, direcionadas
               principalmente a pessoas socialmente vulneráveis.
             </p>
@@ -106,19 +106,18 @@
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-temperature-arrow-down"></i></div>
-              <h4 class="title"><a href="">Baixas temperaturas durante Maio</a></h4>
+              <h4 class="title"><a href="">Baixas temperaturas durante os próximos meses</a></h4>
               <p class="description">O frio intenso realmente chegou e a cidade de São Paulo registrou a madrugada mais
-                fria do ano nesta quarta (18), com 6,6ºC marcados na estação convencional do Mirante de Santana, do
+                fria do ano nesta quarta (18/05), com 6,6ºC marcados na estação convencional do Mirante de Santana, do
                 Instituto Nacional de Meteorologia (Inmet), entre 6h e 7h. O vento gelado, com intensidade
-                moderada a forte, levou a sensação térmica na capital para abaixo de 0ºC. Sendo a menor temperatura do
-                dia: 11,5ºC, confirmou a prefeitura.</p>
+                moderada a forte, levou a sensação térmica na capital para abaixo de 0ºC. Este é o menor registro para um mês de maio desde 1990.</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-snowman"></i></div>
-              <h4 class="title"><a href="">Alto indice de mortes por causa do frio</a></h4>
-              <p class="description">Termômetros marcaram 6°C durante. Segundo o Movimento Estadual dos Moradores
-                em Situação de Rua, foram 7 mortes desde terça (17), sendo 4 na madrugada desta quarta (18).</p>
+              <h4 class="title"><a href="">Alto índice de mortes por causa do frio</a></h4>
+              <p class="description">Termômetros marcaram 6°C nesta quarta (18/05). Segundo o Movimento Estadual dos Moradores
+                em Situação de Rua, foram 7 mortes desde terça (17/05), sendo 4 na madrugada desta quarta (18/05).</p>
             </div>
 
           </div>
@@ -137,9 +136,9 @@
             <p>
               Esse projeto foi motivado devido ao nosso sentimento de solidariedade, fazendo-o de coração e mente
               aberta, pensamos em pontos específicos para que pudéssemos alcançar a maior quantidade de pessoas
-              possíveis. Então no geral ficamos muito satisfeitos com o resultado de nossa iniciativa, além de que não
-              há gratificação melhor do que saber que estamos diminuindo mortes causadas pela hipotermia, salvando os
-              necessitados socialmente, que não tem a capacidade de se proteger sozinhos nesse clima tão rigoroso.
+              possíveis. Então, no geral, ficamos muito satisfeitos com o resultado de nossa iniciativa, além de que não
+              há gratificação melhor do que saber que estamos diminuindo mortes causadas pela hipotermia e aliviando o sofrimento causado pelo frio, ajudando os
+              necessitados socialmente, que não tem a capacidade de se proteger sozinhos nesse frio tão rigoroso.
             </p>
           </div>
         </div>
@@ -157,15 +156,15 @@
             <p>
               Muitas pessoas não possuem uma vestimenta adequada para o frio. E com o inverno chegando, queremos ajudar
               estas pessoas a se esquentaram durante esse período. Por isto, sua doação será de grande ajuda.
-              Veja seu guarda roupa e caso puder doe alguma peça em bom estado, assim estará ajudadno outra pessoa a
-              viver mais um dia.
+              Veja seu guarda roupa e caso puder, doe alguma peça em bom estado, assim estará ajudando outra pessoa a
+              se aquecer.
             </p>
             <p>
               Desde já agradecemos você que doou, e a você que compartilhou essa infomação nos ajudando a aumentar essa
               corrente do bem.
             </p>
             <p>
-              Nossa caixa de doação estará ao lado da secretária até o dia 02/06, caso tenha algo a doar será de grande
+              Nossa caixa de doação estará ao lado da secretaria até o dia 02/06, caso tenha algo a doar será de grande
               ajuda.
             </p>
           </div>
@@ -183,7 +182,7 @@
 
         <header class="section-header">
           <h3>Cronograma</h3>
-          <p>Aqui poderá acompanhar nossos passos desde o inicio do projeto até a data de entrega as instituições</p>
+          <p>Aqui você poderá acompanhar nosso passo a passo desde o início do projeto até a data de entrega às instituições.</p>
         </header>
 
         <div class="row">
@@ -192,7 +191,7 @@
             <div class="box">
               <div class="icon"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
               <h4 class="title"><a href="">1 - Início do projeto</a></h4>
-              <p class="description">Com a ideia de nossa professora, começamos a idealizar nosso projeto de doação</p>
+              <p class="description">Com a ideia de nossa professora de ética, Maria do Carmo, começamos a planejar nosso projeto de doação.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
@@ -207,19 +206,17 @@
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-bookmarks-outline" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">2.5 - Divulgação da nossa iniciativa</a></h4>
-              <p class="description">Segunda-feira(23/5), quarta-feira(25/5) e quinta-feira(26/5) passamos em todas as
-                salas explicando e
-                divulgando nossa iniciativa, na parte da manhã, tarde e noite</p>
+              <h4 class="title"><a href="">3 - Divulgação da nossa iniciativa</a></h4>
+              <p class="description">Segunda-feira(23/05), quarta-feira(25/05) e quinta-feira(26/05) passamos em todas as
+                salas de aula da ETEC de guaianases explicando e divulgando nossa iniciativa, nos períodos da manhã, tarde e noite.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-calendar-outline" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="">3 - Fim do nosso projeto</a></h4>
-              <p class="description">E enfim quinta-feira(2/6) retiramos nossa caixa, separamos as roupas por faixa
-                etária e entregamos ao professor Lenildo para que ele transportasse os agasalhos para a instituição
-                Lírio da paz</p>
+              <h4 class="title"><a href="">4 - Fim do nosso projeto</a></h4>
+              <p class="description">Enfim quinta-feira(02/06) retiraremos nossa caixa, separaremos as roupas por tamanho e gênero entregaremos ao professor Lenildo para que ele transporte os agasalhos para a instituição
+                Lírio da paz.</p>
             </div>
           </div>
         </div>
@@ -233,30 +230,30 @@
     <section id="why-us" class="wow fadeIn">
       <div class="container">
         <header class="section-header">
-          <h3>Roupas arrecadadas</h3>
-          <p>A quantidade roupas que conseguimos arrecadar, separadas por faixa etária</p>
+          <h3>Peças arrecadadas</h3>
+          <p>Quantidade de peças que conseguimos arrecadar, separadas por faixa etária</p>
         </header>
 
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">...</span>
-            <p>Total de roupas</p>
+            <p>Total de peças</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">...</span>
-            <p>Bebês</p>
+            <p>Infantil</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">...</span>
-            <p>Crianças/Adolescentes</p>
+            <p>Adulto</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">...</span>
-            <p>Adulto/idoso</p>
+            <p>Outros</p>
           </div>
 
         </div>
@@ -537,15 +534,10 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="img/clients/client-1.png" class="img-fluid" alt="">
+              <img src="img/clients/asilo.jpeg" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="client-logo">
-              <img src="img/clients/client-2.png" class="img-fluid" alt="">
-            </div>
-          </div>
 
         </div>
 

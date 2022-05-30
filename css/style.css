@@ -1024,7 +1024,7 @@ h6 {
 }
 
 #clients .client-logo {
-  padding: 64px;
+  /*padding: 64px;*/
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
