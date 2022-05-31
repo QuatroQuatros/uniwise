@@ -504,7 +504,7 @@
               </div>
               <div class="col-md-3 info">
                 <i class="ion-ios-telephone-outline"></i>
-                <p>11 95682-6584</p>
+                <p>11 98408-0753</p>
               </div>
             </div>
 
@@ -579,7 +579,7 @@
               R. Feliciano de Mendonça <br>
               São Paulo - SP<br>
               Brasil <br>
-              <strong>Contato:</strong> 11 95682-6584<br>
+              <strong>Contato:</strong> 11 98408-0753<br>
               <strong>Email:</strong> uniwise18@gmail.com<br>
             </p>
 
