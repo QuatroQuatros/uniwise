@@ -320,10 +320,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/equipe (3).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Arrecadação</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/equipe (3).jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/equipe (3).jpeg" class="link-preview" data-lightbox="portfolio" data-title="Arrecadação
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -334,10 +334,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/equipe4.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Arrecadação</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/equipe4.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/equipe4.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Arrecadação
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -349,10 +349,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/equipe5.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Arrecadação</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/equipe5.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/equipe5.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Arrecadação
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -363,10 +363,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/equipe6.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Arrecadação</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/equipe6.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/equipe6.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Arrecadação
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -378,10 +378,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/roupas1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Roupas</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/roupas1.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/roupas1.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Roupas
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -392,10 +392,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/roupas2.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Roupas</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/roupas2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/roupas2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Roupas
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
@@ -407,10 +407,10 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/roupas3.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">nós</a></h4>
+                <h4><a href="#">Roupas</a></h4>
                 <p>Projeto</p>
                 <div>
-                  <a href="img/portfolio/roupas3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  <a href="img/portfolio/roupas3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Roupas
                   " title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
