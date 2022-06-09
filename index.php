@@ -214,7 +214,7 @@
             <div class="box">
               <div class="icon"><i class="ion-ios-calendar-outline" style="color:#41cf2e;"></i></div>
               <h4 class="title"><a href="">4 - Fim do nosso projeto</a></h4>
-              <p class="description">Enfim, quinta-feira(02/06) retiraremos nossa caixa, separaremos as roupas por tamanho e entregaremos ao professor Lenildo para que ele transporte os agasalhos para a instituição
+              <p class="description">Enfim, quinta-feira(09/06) retiraremos nossa caixa, separaremos as roupas por tamanho e entregaremos ao professor Lenildo para que ele transporte os agasalhos para a instituição
                 Lírio da paz.</p>
             </div>
           </div>
@@ -236,22 +236,22 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">...</span>
+            <span data-toggle="counter-up">61</span>
             <p>Total de peças</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">...</span>
+            <span data-toggle="counter-up">11</span>
             <p>Infantil</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">...</span>
+            <span data-toggle="counter-up">45</span>
             <p>Adulto</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">...</span>
+            <span data-toggle="counter-up">5</span>
             <p>Outros</p>
           </div>
 
@@ -275,8 +275,9 @@
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">Tudo</li>
               <li data-filter=".filter-projeto">Projeto</li>
-              <li data-filter=".filter-entrega">Entrega</li>
               <li data-filter=".filter-roupas">Roupas</li>
+              <li data-filter=".filter-entrega">Entrega</li>
+
             </ul>
           </div>
         </div>
@@ -329,6 +330,92 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-projeto" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/equipe4.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/equipe4.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-projeto" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/equipe5.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/equipe5.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-projeto" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/equipe6.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/equipe6.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/roupas1.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/roupas1.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/roupas2.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/roupas2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-roupas" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/roupas3.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="#">nós</a></h4>
+                <p>Projeto</p>
+                <div>
+                  <a href="img/portfolio/roupas3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Nós
+                  " title="Preview"><i class="ion ion-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
           
 
         </div>
